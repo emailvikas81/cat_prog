@@ -6,29 +6,29 @@
 | A json web service has been set up at a url, this code consumes the json and
 | outputs a list of all the cats in alphabetical order under a heading of the gender of their owner.
 
-* Repo info
+**Repo info**
 
-| Location : https://github.com/emailvikas81/cat_prog
-| Version 0.1
+|     * Location : https://github.com/emailvikas81/cat_prog
+|     * Version 0.1
 
 
-* Summary of set up
+**Summary of set up**
 
-| Install Python3 (version 3 onwards) using installer from https://www.python.org/downloads/
-| Once installed open terminal window, execute "python --version" to validate the installed python version.
+|     * Install Python3 (version 3 onwards) using installer from https://www.python.org/downloads/
+|     * Once installed open terminal window, execute "python --version" to validate the installed python version.
 
-* Dependencies
+**Dependencies**
 
-Ensure network accessibility
+    * Ensure network accessibility
 
-* How to execute the program
+**How to execute the program**
 
-| In the terminal, navigate to project directory
-| Execute "python main.py"
+|     * In the terminal, navigate to project directory
+|     * Execute "python main.py"
 
-* Repo owner : Vikas J
+**Repo owner :** Vikas J
 
-* Notes:
+**Notes:**
 
 Please note , there were many versions that I could have come up with, using the following :
 
